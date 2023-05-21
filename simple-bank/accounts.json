@@ -1,0 +1,42 @@
+[
+    {
+        "accountId": 1,
+        "username": "benahmet",
+        "accountName": "Ahmet \u00c3\u2021EL\u00c4\u00b0K",
+        "password": "11",
+        "accountBalance": 130,
+        "lastActions": []
+    },
+    {
+        "accountId": 2,
+        "username": "simge",
+        "accountName": "Simge Yatk\u00c4\u00b1n",
+        "password": "5656",
+        "accountBalance": 120,
+        "lastActions": []
+    },
+    {
+        "accountId": 42618382,
+        "username": "username",
+        "accountName": "surname jname",
+        "password": "123456789",
+        "accountBalance": 0,
+        "lastActions": []
+    },
+    {
+        "accountId": 50992563,
+        "username": "denemusername",
+        "accountName": "deneme user",
+        "password": "147",
+        "accountBalance": 0,
+        "lastActions": []
+    },
+    {
+        "accountId": 18897694,
+        "username": "testuser",
+        "accountName": "test user",
+        "password": "123",
+        "accountBalance": 0,
+        "lastActions": []
+    }
+]
