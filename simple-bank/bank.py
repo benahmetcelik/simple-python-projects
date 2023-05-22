@@ -193,4 +193,6 @@ def updateJson():
         updated_data.append(account)   
     updated_json = open(accounts_file_path,'w')
     updated_json = json.dump(updated_data,updated_json,indent=4)
+
+
 welcomeScreen()
