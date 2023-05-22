@@ -30,7 +30,7 @@ def matchInput():
 
 def generateNumber():
         global random_number
-        random_number = random.randint(1,99)
+        random_number = random.randint(1,500)
 
 
 welcome()
