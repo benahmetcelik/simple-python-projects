@@ -35,6 +35,8 @@ def userInput():
     global empty_word,erroCount
     if erroCount == 6:
         print('Adam Öldü !\n')
+        
+        print('Kelilmen : '+str(''.join(prepare_word)))
         man.drawDeathRow(erroCount)
        
         newGame()
